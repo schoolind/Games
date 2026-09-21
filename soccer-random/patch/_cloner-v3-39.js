@@ -345,7 +345,6 @@ function ClonerAdReward(callback) {
         if (type== "IMG") {
             return `${CDN_BASE}patch/blocked.png`;
         }
-        return `${CDN_BASE}patch/blocked.html`;
     }
 
     // XHR Override
